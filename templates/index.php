@@ -13,10 +13,10 @@
 </head>
 <body>
   <div class="navbar-fixed">
-      <nav class="" role="navigation" style="background-color:#01579b;">
+      <nav class="" role="navigation" style="background-color:black;">
         <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Logo</a>
           <ul class="right hide-on-med-and-down">
-            <li><a href="#">Navbar Link</a></li>
+            <li><a href="#">Inscrições</a></li>
           </ul>
 
           <ul id="nav-mobile" class="sidenav">
@@ -50,7 +50,7 @@
 
 <!-- Contato -->
 
-<div style="background-color:#0277bd; width:100%; padding:10%;">
+<div style="background-color:#01579b;; width:100%; padding:10%;">
   <!-- Galeria -->
   <h2 class="font" style="margin-top:-3%;" align="center">Galeria</h2>
   <br>
@@ -98,7 +98,7 @@
 </div>
 
 
-<footer class="page-footer orange">
+<footer class="page-footer black">
   <div class="container">
     <div class="row">
       <div class="col l6 s12">

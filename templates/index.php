@@ -13,7 +13,7 @@
 </head>
 <body>
   <div class="navbar-fixed">
-      <nav class="" role="navigation" style="background-color:#01579b;">
+      <nav class="" role="navigation" style="background-color:black;">
         <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Logo</a>
           <ul class="right hide-on-med-and-down">
             <li><a href="#">Inscrições</a></li>
@@ -98,7 +98,7 @@
 </div>
 
 
-<footer class="page-footer orange">
+<footer class="page-footer black">
   <div class="container">
     <div class="row">
       <div class="col l6 s12">

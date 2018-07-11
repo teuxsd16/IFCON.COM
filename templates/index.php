@@ -82,8 +82,8 @@
   <div class="row">
     <form class="col s12">
       <div class="row">
-        <div class="input-field col s6 red-text">
-          <input placeholder="" type="text" class="validate">
+        <div class="input-field col s6">
+          <input type="text" class="validate">
           <label for="first_name">First Name</label>
         </div>
         <div class="input-field col s6">

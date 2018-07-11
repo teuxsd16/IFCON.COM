@@ -7,7 +7,7 @@
 
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300" rel="stylesheet">
   <link href="../css/materialize.css" type="text/css" rel="stylesheet" />
   <link href="../css/style.css" type="text/css" rel="stylesheet"/>
 </head>

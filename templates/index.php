@@ -27,16 +27,28 @@
       </nav>
 </div>
 
+<div class="section no-pad-bot" id="index-banner">
   <div class="container">
-  <div class="carousel carousel-slider">
+    <br><br><br><br><br>
+    <h1 class="header center blue-text">Bem vindo a IFCON 2018</h1>
+    <br>
+    <br>
+    <div class="row center">
+      <a style="color:black;" onclick="$('.tap-target').tapTarget('open')" class="btn-large waves-effect waves-light">Mais informações</a>
+    </div>
+      <br><br><br><br><br>
 
-    <a class="carousel-item" href="#one!"><img src="..\img\a1.jpg"></a>
-    <a class="carousel-item" href="#two!"><img src="https://lorempixel.com/800/400/food/2"></a>
-    <a class="carousel-item" href="#three!"><img src="https://lorempixel.com/800/400/food/3"></a>
-    <a class="carousel-item" href="#four!"><img src="https://lorempixel.com/800/400/food/4"></a>
   </div>
-
 </div>
+<!-- Tap Target Structure -->
+
+ <div class="tap-target" data-target="menu">
+   <div class="tap-target-content">
+     <h5>Title</h5>
+     <p>A bunch of text</p>
+   </div>
+ </div>
+
 <div class="container">
   <div class="section">
 
@@ -74,9 +86,11 @@
   <br><br>
 </div>
 
+<a id="menu" class="waves-effect waves-light btn btn-floating" ><i class="material-icons">menu</i></a>
+
 <!-- Contato -->
 
-<div style="background-color:#01579b; width:100%; padding:10%;">
+<div style="background-color:#0277bd; width:100%; padding:10%;">
   <!-- Galeria -->
   <h2 class="font" style="margin-top:-3%;" align="center">Galeria</h2>
   <br>

@@ -27,20 +27,6 @@
       </nav>
 </div>
 
-<div class="section no-pad-bot" id="index-banner">
-  <div class="container">
-    <br><br><br>
-    <h1 class="header center blue-text">Bem vindo a IFCON 2018</h1>
-    <br>
-    <br>
-    <div class="row center">
-      <a style="color:black;" onclick="$('.tap-target').tapTarget('open')" class="btn-large waves-effect waves-light">Mais informações</a>
-    </div>
-      <br><br><br>
-
-  </div>
-</div>
-
 
 
 <!-- Tap Target Structure -->
@@ -52,14 +38,14 @@
    </div>
  </div>
 
-<div class="container">
-  <div class="carousel carousel-slider">
+
+  <div class="carousel carousel-slider" style="height:500px;">
       <a class="carousel-item" href="#one!"><img src="../img/a1.jpg"></a>
       <a class="carousel-item" href="#two!"><img src="https://lorempixel.com/800/400/food/2"></a>
       <a class="carousel-item" href="#three!"><img src="https://lorempixel.com/800/400/food/3"></a>
       <a class="carousel-item" href="#four!"><img src="https://lorempixel.com/800/400/food/4"></a>
     </div>
-</div>
+
 
 
 <!-- Contato -->

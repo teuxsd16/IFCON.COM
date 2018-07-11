@@ -13,7 +13,7 @@
 </head>
 <body>
   <div class="navbar-fixed">
-      <nav class="" role="navigation" style="background-color:#ff1744;">
+      <nav class="" role="navigation" style="background-color:#01579b;">
         <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Logo</a>
           <ul class="right hide-on-med-and-down">
             <li><a href="#">Navbar Link</a></li>
@@ -44,7 +44,7 @@
     <div class="row" style="color:white;">
       <div class="col s12 m4">
         <div class="icon-block">
-          <h2 class="center red-text"><i class="material-icons">flash_on</i></h2>
+          <h2 class="center blue-text"><i class="material-icons">flash_on</i></h2>
           <h5 class="center">Speeds up development</h5>
 
           <p class="light">ult stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
@@ -53,7 +53,7 @@
 
       <div class="col s12 m4">
         <div class="icon-block">
-          <h2 class="center red-text"><i class="material-icons">group</i></h2>
+          <h2 class="center blue-text"><i class="material-icons">group</i></h2>
           <h5 class="center">User Experience Focused</h5>
 
           <p class="light">ble to create a framework that incorporates components and animations that provide more feedback to users. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
@@ -62,7 +62,7 @@
 
       <div class="col s12 m4">
         <div class="icon-block">
-          <h2 class="center red-text"><i class="material-icons">settings</i></h2>
+          <h2 class="center blue-text"><i class="material-icons">settings</i></h2>
           <h5 class="center">Easy to work with</h5>
 
           <p class="light"> to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.</p>
@@ -76,7 +76,7 @@
 
 <!-- Contato -->
 
-<div style="background-color:#ff1744; width:100%; padding:10%;">
+<div style="background-color:#01579b; width:100%; padding:10%;">
   <!-- Galeria -->
   <h2 class="font" style="margin-top:-3%;" align="center">Galeria</h2>
   <br>

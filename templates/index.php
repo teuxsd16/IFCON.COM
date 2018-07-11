@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-  <title>Starter Template - Materialize</title>
+  <title>IFCON</title>
 
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -86,7 +86,6 @@
   <br><br>
 </div>
 
-<a id="menu" class="waves-effect waves-light btn btn-floating" ><i class="material-icons">menu</i></a>
 
 <!-- Contato -->
 

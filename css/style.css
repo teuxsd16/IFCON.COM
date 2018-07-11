@@ -8,10 +8,18 @@
 
 .icon-block {
   padding: 0 15px;
+
 }
 .icon-block .material-icons {
 	font-size: inherit;
 }
 body{
   background-color: black;
+}
+
+
+.font{
+  font-family: 'Roboto', sans-serif;
+  font-weight:100;
+  color:white;
 }

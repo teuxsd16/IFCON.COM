@@ -77,7 +77,30 @@
 <!-- Contato -->
 
 <div style="background-color:#ff1744; width:100%; padding:10%;">
-  <h3 class="font" >Contatos</h3>
+  <!-- Galeria -->
+  <h2 class="font" style="margin-top:-3%;" align="center">Galeria</h2>
+  <br>
+  <div class="row">
+     <div class="col s6">
+       <img class="materialboxed" width="450" src="../img/a1.jpg">
+     </div>
+     <div class="col s6">
+       <img class="materialboxed" width="450" src="../img/a1.jpg">
+     </div>
+   </div>
+   <div class="row">
+      <div class="col s6">
+        <img class="materialboxed" width="450" src="../img/a1.jpg">
+      </div>
+      <div class="col s6">
+        <img class="materialboxed" width="450" src="../img/a1.jpg">
+      </div>
+    </div>
+    <br>
+
+
+    <!-- Contato -->
+  <h2 class="font" style="margin-top:15%;" >Contato</h2>
   <br>
   <div class="row">
     <form class="col s12">

@@ -85,6 +85,7 @@
   <h2 class="font"  align="center">Programação</h2>
   <p style="font-size: 20pt;"> Tendo sua primeira edição realizada em 2016 o IF.Con é um evento que ocorre inspirado na COMIC CON (evento de cultura pop/nerd de origem norte americana) e que busca discutir a cultura pop em seus diversos aspectos e formas (cinema, literatura, quadrinhos, desenhos, pinturas, animes, games, etc.) de maneira mais acadêmica como estratégia lúdica de educação.</p>
   <!-- Galeria -->
+  <br><br><br><br>
   <h2 class="font" style="margin-top:-3%;" align="center">Galeria</h2>
   <br>
   <div class="row">

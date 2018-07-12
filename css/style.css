@@ -4,46 +4,28 @@
  * the core Materialize files in the future
  *
  * Made By MaterializeCSS.com
+ */* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
  */
 
 .icon-block {
   padding: 0 15px;
-
 }
 .icon-block .material-icons {
 	font-size: inherit;
 }
 body{
-  background-color: black;
+
 }
-
-
 .font{
   font-family: 'Titillium Web', sans-serif;
   font-weight:50;
   color:white;
 }
-
-.input-field label {
-     color: white;
-     font-size: 13pt;
-   }
-
-      .input-field input[type=text]:focus {
-        border-bottom: 1px solid white;
-        box-shadow: 0 1px 0 0 white;
-      }
-      /* valid color */
-      .input-field input[type=text].valid {
-        border-bottom: 1px solid white;
-        box-shadow: 0 1px 0 0 white;
-      }
-      /* invalid color */
-      .input-field input[type=text].invalid {
-        border-bottom: 1px solid white;
-        box-shadow: 0 1px 0 0 white;
-      }
-      /* icon prefix focus color */
-      .input-field .prefix.active {
-        color: white;
-      }
+.navbar {
+   background: rgba(0,0,0,0) !important;
+}

@@ -42,7 +42,7 @@
             <h2 class="center white-text"><i class="material-icons">record_voice_over</i></h2>
             <h5 class="center">Palestras</h5>
 
-            <p class="light" style="font-family: 'Nunito', sans-serif;">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+            <p class="light" style="font-family: 'Nunito', sans-serif;">O evento proporciona palestras, no qual tem como intuito criar discussões envolvendo a cultura pop em seus diversos aspectos e formas, dentre eles podemos citar: Cinema, Literatura, Quadrinhos, Desenhos, Pinturas, Animes, Games, dentre outros. De forma a haver uma aprendizagem com estratégias lúdicas e interativas.</p>
           </div>
         </div>
 
@@ -51,7 +51,7 @@
             <h2 class="center white-text"><i class="material-icons">face</i></h2>
             <h5 class="center">Cosplays</h5>
 
-            <p class="light">By utilizing elements and principles of Material Design, we were able to create a framework that incorporates components and animations that provide more feedback to users. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
+            <p class="light">O desfile de Cosplays funciona com a ação dos envolvidos em interpretar o artista ou personagem e se vestir como ele, imitando também a maneira de se comportar e seus trejeitos. De certa forma o Cosplay é a homenagem de um fã a seu personagem.</p>
           </div>
         </div>
 
@@ -60,7 +60,7 @@
             <h2 class="center white-text"><i class="material-icons">games</i></h2>
             <h5 class="center">Games</h5>
 
-            <p class="light">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.</p>
+            <p class="light">Os campeonatos de games proporcionam um ambiente divertido e competitivo de modo a agrupar equipes que duelam entre si. Counter Strike e League of Legends são jogos que serão disputados na IF.Con 2018.</p>
           </div>
         </div>
       </div>

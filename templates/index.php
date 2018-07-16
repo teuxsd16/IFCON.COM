@@ -8,6 +8,7 @@
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nunito|Raleway" rel="stylesheet">
   <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
@@ -41,7 +42,7 @@
             <h2 class="center white-text"><i class="material-icons">flash_on</i></h2>
             <h5 class="center">Games</h5>
 
-            <p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+            <p class="light" style="font-family: 'Nunito', sans-serif;">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
           </div>
         </div>
 
